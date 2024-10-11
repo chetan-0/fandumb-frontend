@@ -1,5 +1,5 @@
 // SplitScreenLayout.js
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 import Left from './left';
 import Right from './right';
 
